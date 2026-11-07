@@ -1,0 +1,11 @@
+{
+  "protocol": "TinyRepo/1",
+  "packages": [
+    {"name": "HELLO", "file": "HELLO.TBC"},
+    {"name": "CLOCK", "file": "CLOCK.TBC"},
+    {"name": "MATH", "file": "MATH.TBC"},
+    {"name": "TUTORIAL", "file": "TUTORIAL.TBC"},
+    {"name": "NETDEMO", "file": "NETDEMO.TBC"},
+    {"name": "FILEDEMO", "file": "FILEDEMO.TBC"}
+  ]
+}
